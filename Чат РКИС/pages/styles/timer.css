@@ -19,16 +19,19 @@
     margin: 5px;
     display: inline-block;
   }
-  .time{
-     
+  
+  .time{ 
     margin-left: -25px;
   }
+
   #sekundomers span{
     margin-left: 20px;
   }
+
   #sekundomers button:first-of-type {
     margin-top: 15px;
   }
+
   #sekundomers button {
     font-size: 22px;
     -webkit-appearance: none;
@@ -40,9 +43,11 @@
     height: 50px;
     transition: .3s;
   }
+
   #sekundomers button:last-child {
     background-color: #8538a1;
   }
+
   #sekundomers button:hover {
     background: #2763cf;
     color: #f1ecec;
